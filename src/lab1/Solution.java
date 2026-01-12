@@ -1,8 +1,14 @@
 package lab1;
 
+import javax.swing.*;
+
 public class Solution {
     public static void main(String[] args) {
-        System.out.printf("Hello and welcome!");
+//        FrameExample frameExample =  new FrameExample();
+//        MenuExample menuExample =new MenuExample();
+
+        ProgressBarExample p = new ProgressBarExample();
+
     }
 
 }
