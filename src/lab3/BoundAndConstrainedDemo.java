@@ -25,7 +25,7 @@ public class BoundAndConstrainedDemo {
         });
 
         // Bound property test
-        person.setName("Alice");
+        person.setName("Anish");
 
         // Constrained property test
         try {
